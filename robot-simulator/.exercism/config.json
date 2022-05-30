@@ -1,0 +1,27 @@
+{
+  "authors": [],
+  "contributors": [
+    "amencarini",
+    "angelikatyborska",
+    "Cohen-Carlisle",
+    "devonestes",
+    "ebiven",
+    "lpil",
+    "neenjaw",
+    "parkerl",
+    "sotojuan"
+  ],
+  "files": {
+    "solution": [
+      "lib/robot_simulator.ex"
+    ],
+    "test": [
+      "test/robot_simulator_test.exs"
+    ],
+    "example": [
+      ".meta/example.ex"
+    ]
+  },
+  "blurb": "Write a robot simulator.",
+  "source": "Inspired by an interview question at a famous company."
+}

@@ -1,0 +1,27 @@
+{
+  "authors": [],
+  "contributors": [
+    "angelikatyborska",
+    "Cohen-Carlisle",
+    "DanCouper",
+    "devonestes",
+    "lpil",
+    "martinsvalin",
+    "MeerKatDev",
+    "neenjaw",
+    "parkerl",
+    "sotojuan"
+  ],
+  "files": {
+    "solution": [
+      "lib/markdown.ex"
+    ],
+    "test": [
+      "test/markdown_test.exs"
+    ],
+    "example": [
+      ".meta/example.ex"
+    ]
+  },
+  "blurb": "Refactor a Markdown parser."
+}
